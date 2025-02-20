@@ -1,9 +1,11 @@
-# Fragility Model for Grid Components under Extreme Weather Events
+# Fleet Management Tool for Solar Inverters
 
 Developed under project “ABSCoRES, A novel application of Banking Scoring and Rating for Electricity Systems”, funded by the Advanced Research Projects Agency-Energy (ARPAE), U.S. Department of Energy, under Award Number DEAR0001277.
 
-![flow-single](https://github.com/user-attachments/assets/adbe2e33-ec79-4c72-ac36-bf970cb479f6)
-![flow-multi](https://github.com/user-attachments/assets/6d0d1f65-cac2-4974-8f38-d348dd1c5d60)
+![image](https://github.com/user-attachments/assets/166774d9-5e52-4aef-b96f-cbb486c43d58)
+![image](https://github.com/user-attachments/assets/73149d71-408f-4ffb-994d-087fe7d5baaa)
+
+
 
 ## Benefits to Industry
 ![impact-after](https://github.com/user-attachments/assets/aff1883f-be0b-4017-a1cf-68c45ee7adc2)
