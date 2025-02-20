@@ -4,12 +4,15 @@ Developed under project “Harnessing Sensor Data for Degradation Analytics and 
 
 ![image](https://github.com/user-attachments/assets/166774d9-5e52-4aef-b96f-cbb486c43d58)
 
-Demo of
+Demo of proposed tool at: 
 
 
 
 ## Benefits to Industry
-![impact-after](https://github.com/user-attachments/assets/aff1883f-be0b-4017-a1cf-68c45ee7adc2)
+Significant reduction of maintenance cost, see below for the example maintenance cost reduction over simulation for 60 years.  
+![image](https://github.com/user-attachments/assets/4f1f289f-1f39-433f-a73c-6b54a5e80db4)
+
+
 
 
 ## Authors
