@@ -17,13 +17,15 @@ Significant reduction of maintenance cost, see below for the example maintenance
 - User-defined maintenance cost
 
 
-![image](https://github.com/user-attachments/assets/8db68f8c-7ec9-4dfd-b900-9d6615e8ddc5)
+![image](https://github.com/user-attachments/assets/d82b4d16-8d90-4fc3-9681-23b11db9bd90)
+
 ### Output: (skip viz)
 - Summary of maintenance metrics
 - Location of inverter fleets
 
 
 ![image](https://github.com/user-attachments/assets/e36b54c2-9db3-4cef-ab09-96e7a7c95c6f)
+
 ### Output: (full viz)
 - Real-time inverter status demonstration at fleet-level
 - Zoom to critical inverters: failure time distribution and dynamic maintenance function
