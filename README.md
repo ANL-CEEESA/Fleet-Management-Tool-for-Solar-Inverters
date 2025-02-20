@@ -1,9 +1,10 @@
 # Fleet Management Tool for Solar Inverters
 
-Developed under project “ABSCoRES, A novel application of Banking Scoring and Rating for Electricity Systems”, funded by the Advanced Research Projects Agency-Energy (ARPAE), U.S. Department of Energy, under Award Number DEAR0001277.
+Developed under project “Harnessing Sensor Data for Degradation Analytics and Operations & Maintenance Optimization in PV Systems: A Prognostic Approach”, funded by the Solar Energy Technology Office (SETO), U.S. Department of Energy.
 
 ![image](https://github.com/user-attachments/assets/166774d9-5e52-4aef-b96f-cbb486c43d58)
-![image](https://github.com/user-attachments/assets/73149d71-408f-4ffb-994d-087fe7d5baaa)
+
+Demo of
 
 
 
@@ -17,20 +18,22 @@ Developed under project “ABSCoRES, A novel application of Banking Scoring and 
 
 ## Acknowledgments
 
-* The information, data, or work presented herein was funded by the Advanced Research Projects Agency-Energy (ARPAE), U.S. Department of Energy, under Award Number DEAR0001277 “ABSCoRES, A novel application of Banking Scoring and Rating for Electricity Systems” .
-* The views and opinions of authors expressed herein do not necessarily state or reflect those of the United States Government or any agency
-thereof.
+* This material is based upon work supported by the U.S. Department of Energy's Office of Energy Efficiency and Renewable Energy (EERE) under the Solar Energy Technologies Office Award Number 38458.
+* Full Legal Disclaimer: This report was prepared as an account of work sponsored by an agency of the United States Government. Neither the United States Government nor any agency
+thereof, nor any of their employees, makes any warranty, express or implied, or assumes any
+legal liability or responsibility for the accuracy, completeness, or usefulness of any information,
+apparatus, product, or process disclosed, or represents that its use would not infringe privately
+owned rights. Reference herein to any specific commercial product, process, or service by
+trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply
+its endorsement, recommendation, or favoring by the United States Government or any
+agency thereof. The views and opinions of authors expressed herein do not necessarily state
+or reflect those of the United States Government or any agency thereof.
 
-## Citing
-
-If you use Solar-LEAP in your research (instances, models or algorithms), we kindly request that you cite the package as follows:
-
-* S. Zhao, B. Chen and A. J. L. L., "Developing Fragility Model for Distribution Device using Real-World Utility Outage Records under Extreme Weather Events," 2024 IEEE Power & Energy Society General Meeting (PESGM), Seattle, WA, USA, 2024, pp. 1-5, doi: 10.1109/PESGM51994.2024.10688724.
 
 ## License
 
 ```text
-Fragility Model for Grid Components under Extreme Weather Events
+Fleet Management Tool for Solar Inverters
 Copyright © 2022-2025, UChicago Argonne, LLC. All Rights Reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted
