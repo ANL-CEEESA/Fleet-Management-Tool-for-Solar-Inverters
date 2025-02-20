@@ -3,27 +3,33 @@
 Developed under project “Harnessing Sensor Data for Degradation Analytics and Operations & Maintenance Optimization in PV Systems: A Prognostic Approach”, funded by the Solar Energy Technology Office (SETO), U.S. Department of Energy.
 
 ![image](https://github.com/user-attachments/assets/166774d9-5e52-4aef-b96f-cbb486c43d58)
-
-[Demo of Tool Output] (https://github.com/ANL-CEEESA/Fleet-Management-Tool-for-Solar-Inverters/blob/main/Codes/figure_GUI_demo/outpu-viz-gif-quick.gif)
 ![Demo of Tool Output](https://github.com/ANL-CEEESA/Fleet-Management-Tool-for-Solar-Inverters/blob/main/Codes/figure_GUI_demo/outpu-viz-gif-quick.gif)
 
 
 ## Benefits to Industry
-Significant reduction of maintenance cost, see below for the example maintenance cost reduction over simulation for 60 years.  
+Significant reduction of maintenance cost, see below for the example maintenance cost reduction over simulation for 60 years. 
+
+
 ![image](https://github.com/user-attachments/assets/4f1f289f-1f39-433f-a73c-6b54a5e80db4)
 
 ## Tool Architecture and Details
 ### Input: User-defined maintenance cost
+
+
 ![image](https://github.com/user-attachments/assets/8db68f8c-7ec9-4dfd-b900-9d6615e8ddc5)
 ### Output: (skip viz)
 - Summary of maintenance metrics
 - Location of inverter fleets
+
+
 ![image](https://github.com/user-attachments/assets/e36b54c2-9db3-4cef-ab09-96e7a7c95c6f)
 ### Output: (full viz)
 - Real-time inverter status demonstration at fleet-level
 - Zoom to critical inverters: failure time distribution and dynamic maintenance function
 - Map: geographical + status
 - Metrics: real-time updates
+
+
 ![image](https://github.com/user-attachments/assets/74207964-0874-4048-bfe5-252f8bc6f124)
 
 
