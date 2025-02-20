@@ -4,7 +4,7 @@ Developed under project “Harnessing Sensor Data for Degradation Analytics and 
 
 ![image](https://github.com/user-attachments/assets/166774d9-5e52-4aef-b96f-cbb486c43d58)
 
-Demo of proposed tool at: 
+Demo of Tool Output at: https://github.com/ANL-CEEESA/Fleet-Management-Tool-for-Solar-Inverters/blob/main/Codes/figure_GUI_demo/outpu-viz-gif-quick.gif  
 
 
 
