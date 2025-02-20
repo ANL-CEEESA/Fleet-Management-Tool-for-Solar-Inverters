@@ -13,7 +13,8 @@ Significant reduction of maintenance cost, see below for the example maintenance
 ![image](https://github.com/user-attachments/assets/4f1f289f-1f39-433f-a73c-6b54a5e80db4)
 
 ## Tool Architecture and Details
-### Input: User-defined maintenance cost
+### Input
+- User-defined maintenance cost
 
 
 ![image](https://github.com/user-attachments/assets/8db68f8c-7ec9-4dfd-b900-9d6615e8ddc5)
